@@ -29,9 +29,12 @@ namespace FirstMVCApp.Controllers
         [HttpPost]
         public ActionResult Create(Person person)
         {
-            // return View(person);
-            Persons.GetPeople().Add(person);
-            return RedirectToAction("Index");
+            if (ModelState.IsValid) { 
+                // return View(person);
+                Persons.GetPeople().Add(person);
+                return RedirectToAction("Index");
+            }
+            return View(person);
         }
 
     }
