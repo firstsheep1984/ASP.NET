@@ -1,0 +1,110 @@
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Scaffolding.dll.config
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Scaffolding.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Scaffolding.pdb
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Antlr3.Runtime.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\EntityFramework.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\EntityFramework.SqlServer.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.AspNet.Identity.Core.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.Cookies.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.Facebook.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.Google.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.OAuth.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.Twitter.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Web.Infrastructure.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Newtonsoft.Json.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Owin.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.Helpers.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.Mvc.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.Optimization.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.Razor.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.WebPages.Deployment.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.WebPages.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.WebPages.Razor.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\WebGrease.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.Helpers.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.Mvc.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.Optimization.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.Razor.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.WebPages.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.WebPages.Deployment.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.WebPages.Razor.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Antlr3.Runtime.pdb
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Newtonsoft.Json.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\EntityFramework.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\EntityFramework.SqlServer.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.AspNet.Identity.Core.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.Facebook.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.Cookies.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.OAuth.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.Google.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.Twitter.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\obj\Debug\Scaffolding.csprojResolveAssemblyReference.cache
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\obj\Debug\Scaffolding.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\Working-with-Data\obj\Debug\Scaffolding.pdb
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Scaffolding.dll.config
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Scaffolding.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Scaffolding.pdb
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Antlr3.Runtime.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\EntityFramework.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\EntityFramework.SqlServer.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Newtonsoft.Json.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Owin.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.Helpers.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.Mvc.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.Optimization.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.Razor.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.WebPages.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.WebPages.Razor.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\WebGrease.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.Helpers.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.Mvc.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.Optimization.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.Razor.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.WebPages.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\System.Web.WebPages.Razor.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Antlr3.Runtime.pdb
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Newtonsoft.Json.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\EntityFramework.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\EntityFramework.SqlServer.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\obj\Debug\Scaffolding.csprojResolveAssemblyReference.cache
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\obj\Debug\Scaffolding.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\Working-with-Data\obj\Debug\Scaffolding.pdb

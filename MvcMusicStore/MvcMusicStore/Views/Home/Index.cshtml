@@ -1,0 +1,30 @@
+﻿@inherits System.Web.Mvc.WebViewPage<DateTime>
+
+@using System.Globalization;
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Site.cshtml";
+
+    PageData["ApplicationTitle"] = "ASP.NET MVC 3 MUSIC STORE – Razor Style";
+}
+@section header {
+    <h3>Welcome</h3>
+}
+<h2>This is the Home Page</h2>
+@{ var myname = "MVC Music Store";
+    <div>
+        My name is @myname
+    </div>
+}
+@{
+    //  var now = DateTime.Now;
+    <text>
+        Current time is @Model.ToString(CultureInfo.CurrentUICulture)
+    </text>
+}
+
+@*
+    <div>
+    I'm inside a comment
+    </div>
+*@

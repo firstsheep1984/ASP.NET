@@ -1,0 +1,2 @@
+What is the ViewBag?
+ViewBag is a property – considered a dynamic object – that enables you to share values dynamically between the controller and view within ASP.NET MVC applications.

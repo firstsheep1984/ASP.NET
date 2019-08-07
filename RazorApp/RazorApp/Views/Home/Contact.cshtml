@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+@{
+    var productName = "Energy drink";
+    var username = "yangyang";
+    var domain = "outlook.com";
+    if (Model != null)
+    {
+        productName = Model.ProductName;
+    }
+    else if (ViewBag.ProductName != null)
+    {
+        productName = ViewBag.ProductName;
+    }
+}
+<p>Product "@productName" has been added in your shopping cart</p>
+Email: @username@@@domain
+<p>
+    Current time is: @DateTime.Now!!!
+</p>
+
+@Helpers.WriteValue(6)

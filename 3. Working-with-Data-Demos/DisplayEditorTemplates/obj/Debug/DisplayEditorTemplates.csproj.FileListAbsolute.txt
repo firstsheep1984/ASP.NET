@@ -1,0 +1,62 @@
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\AutoMapper.Net4.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\DisplayEditorTemplates.dll.config
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\DisplayEditorTemplates.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\DisplayEditorTemplates.pdb
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\Antlr3.Runtime.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\AutoMapper.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\Microsoft.Web.Infrastructure.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\Newtonsoft.Json.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.Helpers.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.Mvc.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.Optimization.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.Razor.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.WebPages.Deployment.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.WebPages.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.WebPages.Razor.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\WebGrease.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\AutoMapper.pdb
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\AutoMapper.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\AutoMapper.Net4.pdb
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.Helpers.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.Mvc.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.Optimization.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.Razor.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.WebPages.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.WebPages.Deployment.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.WebPages.Razor.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\Antlr3.Runtime.pdb
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\Newtonsoft.Json.xml
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\obj\Debug\DisplayEditorTemplates.csprojResolveAssemblyReference.cache
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\obj\Debug\DisplayEditorTemplates.dll
+C:\abbott\ASP NET MVC\Changed\3. Working-with-Data-Demos\DisplayEditorTemplates\obj\Debug\DisplayEditorTemplates.pdb
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\AutoMapper.Net4.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\DisplayEditorTemplates.dll.config
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\DisplayEditorTemplates.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\DisplayEditorTemplates.pdb
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\Antlr3.Runtime.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\AutoMapper.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\Newtonsoft.Json.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.Helpers.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.Mvc.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.Optimization.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.Razor.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.WebPages.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.WebPages.Razor.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\WebGrease.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\AutoMapper.pdb
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\AutoMapper.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\AutoMapper.Net4.pdb
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.Helpers.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.Mvc.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.Optimization.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.Razor.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.WebPages.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\System.Web.WebPages.Razor.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\Antlr3.Runtime.pdb
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\bin\Newtonsoft.Json.xml
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\obj\Debug\DisplayEditorTemplates.csprojResolveAssemblyReference.cache
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\obj\Debug\DisplayEditorTemplates.dll
+C:\Users\rartola\Desktop\Day 1\3. Working-with-Data-Demos\DisplayEditorTemplates\obj\Debug\DisplayEditorTemplates.pdb
