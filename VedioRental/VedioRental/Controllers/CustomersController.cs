@@ -25,6 +25,35 @@ namespace VedioRental.Controllers
             else
                 return View("ReadOnlyLIst", customers.ToList());
         }
+        [AllowAnonymous]
+        public ActionResult Search(string query)
+        {
+            var customers = db.Customers;//.Include(c => c.MembershipType);
+            var result = customers              
+                .AsQueryable()
+                .Where(customer => customer.Name.ToLower().Contains(query.ToLower()))               
+                .ToList();
+
+            return this.PartialView("_CustomerResult", result);
+        }
+        [AllowAnonymous]
+        public ActionResult ContentById(int id)
+        {
+            if (!Request.IsAjaxRequest())
+            {
+                Response.StatusCode = (int)HttpStatusCode.Forbidden;
+                return this.Content("This action can be invoke only by AJAX call");
+            }
+
+            var customer = db.Customers.FirstOrDefault(x => x.Id == id);
+            if (customer == null)
+            {
+                Response.StatusCode = (int)HttpStatusCode.NotFound;
+                return this.Content("Customer not found");
+            }
+
+            return this.Content(customer.Id.ToString());
+        }
 
         // GET: Customers/Details/5
         [Authorize(Roles = RoleName.CanManage)]
@@ -61,6 +90,11 @@ namespace VedioRental.Controllers
                 db.Customers.Add(customer);
                 db.SaveChanges();
                 return RedirectToAction("Index");
+            }
+            // add more
+            else
+            {
+                ModelState.AddModelError("", "Something wrong happened");
             }
 
             return View(customer);

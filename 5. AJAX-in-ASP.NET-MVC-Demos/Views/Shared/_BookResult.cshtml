@@ -1,0 +1,22 @@
+﻿@using System.Activities.Expressions
+@model IEnumerable<AjaxMVCDemos.Models.BookViewModel>
+
+@if (Model.Any())
+{
+    foreach (var book in Model)
+    {
+        <h3>@book.Title (by @book.Author)</h3>
+        @Ajax.ActionLink("See content", "ContentById", "Books", new { id = book.Id },
+            new AjaxOptions
+                {
+                    InsertionMode = InsertionMode.Replace,
+                    UpdateTargetId = "book-content-" + book.Id
+                })
+        <div id="book-content-@book.Id"></div>
+    }
+}
+else
+{
+    <br/>
+    <div>No matches</div>
+}

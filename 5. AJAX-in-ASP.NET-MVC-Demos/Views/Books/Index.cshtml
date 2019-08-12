@@ -1,0 +1,23 @@
+﻿@model List<AjaxMVCDemos.Models.BookViewModel>
+
+@{
+    ViewBag.Title = "Books";
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Ajax.BeginForm("Search", null,
+    new AjaxOptions
+    {
+        HttpMethod = "POST",
+        UpdateTargetId = "results",
+        InsertionMode = InsertionMode.Replace
+    }, new { id = "searchForm" }))
+{
+    <input type="text" name="query" placeholder="Live Search" 
+           oninput="$('#searchForm').submit()" />
+    <input type="submit" value="Search" />
+}
+<div id="results">
+    @Html.Partial("_BookResult", Model)
+</div>

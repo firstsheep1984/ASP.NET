@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "jQuery AJAX";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div id="timeDisplay"></div>
+
+<a onclick="updateServerTimeAjax()" href="#" class="btn btn-primary">Load Server Time</a>
+
+<script>
+    function updateServerTimeAjax() {
+        $("#timeDisplay").html("Loading...");
+        $("#timeDisplay").load("/Home/ServerTime");
+    }
+</script>

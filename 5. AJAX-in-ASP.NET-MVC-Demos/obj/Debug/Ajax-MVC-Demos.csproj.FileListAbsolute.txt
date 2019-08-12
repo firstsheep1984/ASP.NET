@@ -1,0 +1,54 @@
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\bin\AjaxMVCDemos.dll.config
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\bin\AjaxMVCDemos.dll
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\bin\AjaxMVCDemos.pdb
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\bin\Antlr3.Runtime.dll
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\bin\Newtonsoft.Json.dll
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.Helpers.dll
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.Mvc.dll
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.Optimization.dll
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.Razor.dll
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.WebPages.Deployment.dll
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.WebPages.dll
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.WebPages.Razor.dll
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\bin\WebGrease.dll
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\bin\Antlr3.Runtime.pdb
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\bin\Newtonsoft.Json.xml
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.Helpers.xml
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.Mvc.xml
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.Optimization.xml
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.Razor.xml
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.WebPages.xml
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.WebPages.Deployment.xml
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.WebPages.Razor.xml
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\obj\Debug\Ajax-MVC-Demos.csprojResolveAssemblyReference.cache
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\obj\Debug\AjaxMVCDemos.dll
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\obj\Debug\AjaxMVCDemos.pdb
+C:\abbott\ASP NET MVC\Changed\6. AJAX-in-ASP.NET-MVC-Demos\bin\Microsoft.Web.Infrastructure.dll
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\bin\AjaxMVCDemos.dll.config
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\bin\AjaxMVCDemos.dll
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\bin\AjaxMVCDemos.pdb
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\bin\Antlr3.Runtime.dll
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\bin\Microsoft.Web.Infrastructure.dll
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\bin\Newtonsoft.Json.dll
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.Helpers.dll
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.Mvc.dll
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.Optimization.dll
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.Razor.dll
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.WebPages.Deployment.dll
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.WebPages.dll
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.WebPages.Razor.dll
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\bin\WebGrease.dll
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\bin\Antlr3.Runtime.pdb
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\bin\Newtonsoft.Json.xml
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.Helpers.xml
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.Mvc.xml
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.Optimization.xml
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.Razor.xml
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.WebPages.xml
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.WebPages.Deployment.xml
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\bin\System.Web.WebPages.Razor.xml
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\obj\Debug\Ajax-MVC-Demos.csprojAssemblyReference.cache
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\obj\Debug\Ajax-MVC-Demos.csproj.CoreCompileInputs.cache
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\obj\Debug\Ajax-MVC-Demos.csproj.CopyComplete
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\obj\Debug\AjaxMVCDemos.dll
+C:\Ricardo Artola\ASP NET MVC\Code\5. AJAX-in-ASP.NET-MVC-Demos\obj\Debug\AjaxMVCDemos.pdb
