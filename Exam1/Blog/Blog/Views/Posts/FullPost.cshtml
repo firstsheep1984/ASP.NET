@@ -1,0 +1,54 @@
+﻿@using Blog.Models
+@model Blog.Models.Post
+<div class="post-preview">
+    <h2 class="post-title">
+        @Model.Title
+    </h2>
+    <h3 class="post-subtitle">
+        @Html.Raw(Model.Content)
+    </h3>
+    <p class="post-meta">
+        Posted by
+        <a href="#">@Model.UserFullName</a>
+        on @Model.PostedOn.Value.ToString("dddd, dd MMMM yyyy")
+    </p>
+</div>
+<h2>Comments</h2>
+@{bool isFound = false;}
+@if (Model.Comments != null)
+{
+    foreach (var comment in Model.Comments)
+    {
+        if (comment.IsPublished)
+        {
+            { isFound = true; }
+            <div class="container">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        @comment.Content
+                        <p>
+                            Posted by
+                            <a href="#">@comment.UserFullName</a>
+                            on @comment.CreatedOn.ToString("dddd, dd MMMM yyyy")
+                        </p>
+                    </div>
+                </div>
+            </div>
+        }
+
+    }
+}
+@if (!isFound)
+{
+    <p>No comments yet.</p>
+}
+
+@if (User.Identity.IsAuthenticated)
+{
+    @Html.Partial("_newComment", new AddCommentViewModel() { PostId = Model.Id })
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+}
+

@@ -1,0 +1,62 @@
+﻿@model IEnumerable<PartialViewExercise.Models.CustomerModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Customer Details</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@*Headers*@
+
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CustmerId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CustomerName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PresentAddress)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PermanantAddress)
+        </th>
+        <th></th>
+    </tr>
+
+    @*Customer Data*@
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+
+            @Html.DisplayFor(modelItem => item.CustmerId)
+        </td>
+        <td>
+            
+            @Html.DisplayFor(modelItem => item.CustomerName)
+        </td>
+        <td>
+
+            @Html.DisplayFor(modelItem => item.PresentAddress)
+        </td>
+        <td>
+            @Html.Partial("_CustomerAddressDetails", item.PermanantAddress)
+            
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.CustmerId}) |
+            @Html.ActionLink("Details", "Details", new { id = item.CustmerId }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.CustmerId })
+        </td>
+    </tr>
+    }
+
+</table>

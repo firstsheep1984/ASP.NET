@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@using BlogMvc.Models
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -22,10 +23,12 @@
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
                     <li>@Html.ActionLink("Home", "Index", "Home")</li>
-                   
-                    <li>@Html.ActionLink("Posts", "Index", "Posts")</li>
-                    
-                    <li>@Html.ActionLink("Comments", "Index", "Comments")</li>
+                    @if (User.IsInRole(RoleName.CanManage))
+                    {
+                        <li>@Html.ActionLink("Posts", "Index", "Posts")</li>
+
+                        <li>@Html.ActionLink("Comments", "Index", "Comments")</li>
+                    }
                 </ul>
                 @Html.Partial("_LoginPartial")
             </div>

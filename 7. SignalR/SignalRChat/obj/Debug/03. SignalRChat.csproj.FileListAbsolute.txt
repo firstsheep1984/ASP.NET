@@ -1,0 +1,107 @@
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\SignalRChat.dll.config
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\SignalRChat.dll
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\SignalRChat.pdb
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\Antlr3.Runtime.dll
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\Microsoft.Owin.dll
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\Microsoft.Owin.Security.dll
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\Newtonsoft.Json.dll
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\Owin.dll
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\System.Web.Mvc.dll
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\System.Web.Optimization.dll
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\System.Web.Razor.dll
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\System.Web.WebPages.Deployment.dll
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\System.Web.WebPages.dll
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\System.Web.WebPages.Razor.dll
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\WebGrease.dll
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\Microsoft.Owin.xml
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\Microsoft.Owin.Security.xml
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\Newtonsoft.Json.xml
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\System.Web.Mvc.xml
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\System.Web.Razor.xml
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\System.Web.WebPages.xml
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\System.Web.WebPages.Deployment.xml
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\System.Web.WebPages.Razor.xml
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\obj\Debug\03. SignalRChat.csprojResolveAssemblyReference.cache
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\obj\Debug\SignalRChat.dll
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\obj\Debug\SignalRChat.pdb
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\System.Web.Helpers.dll
+C:\abbott\ASP NET MVC\Changed\8. SignalR\SignalRChat\bin\System.Web.Helpers.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\SignalRChat.dll.config
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\SignalRChat.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\SignalRChat.pdb
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\Antlr3.Runtime.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\Microsoft.Owin.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\Microsoft.Owin.Security.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\Newtonsoft.Json.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\Owin.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\System.Web.Helpers.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\System.Web.Mvc.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\System.Web.Optimization.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\System.Web.Razor.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\System.Web.WebPages.Deployment.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\System.Web.WebPages.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\System.Web.WebPages.Razor.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\WebGrease.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\Microsoft.Owin.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\Microsoft.Owin.Security.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\Newtonsoft.Json.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\System.Web.Helpers.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\System.Web.Mvc.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\System.Web.Razor.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\System.Web.WebPages.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\System.Web.WebPages.Deployment.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\bin\System.Web.WebPages.Razor.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\obj\Debug\03. SignalRChat.csprojResolveAssemblyReference.cache
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\obj\Debug\SignalRChat.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\SignalRChat\obj\Debug\SignalRChat.pdb
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\SignalRChat.dll.config
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\SignalRChat.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\SignalRChat.pdb
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\Antlr3.Runtime.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\Microsoft.Owin.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\Microsoft.Owin.Security.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\Microsoft.Web.Infrastructure.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\Newtonsoft.Json.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\Owin.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\System.Web.Helpers.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\System.Web.Mvc.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\System.Web.Optimization.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\System.Web.Razor.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\System.Web.WebPages.Deployment.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\System.Web.WebPages.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\System.Web.WebPages.Razor.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\WebGrease.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\Microsoft.Owin.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\Microsoft.Owin.Security.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\Newtonsoft.Json.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\System.Web.Helpers.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\System.Web.Mvc.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\System.Web.Razor.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\System.Web.WebPages.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\System.Web.WebPages.Deployment.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\bin\System.Web.WebPages.Razor.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\obj\Debug\03. SignalRChat.csprojAssemblyReference.cache
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\obj\Debug\03. SignalRChat.csproj.CoreCompileInputs.cache
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\obj\Debug\03. SignalRChat.csproj.CopyComplete
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\obj\Debug\SignalRChat.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\SignalRChat\obj\Debug\SignalRChat.pdb

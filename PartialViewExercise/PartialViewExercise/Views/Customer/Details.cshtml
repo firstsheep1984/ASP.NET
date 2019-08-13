@@ -1,0 +1,40 @@
+﻿@model PartialViewExercise.Models.CustomerModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>CustomerModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CustmerId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CustmerId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CustomerName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CustomerName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.PresentAddress)
+        </dt>
+
+        <dd>
+            @Html.Partial("_CustomerAddressDetails", Model.PresentAddress)
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

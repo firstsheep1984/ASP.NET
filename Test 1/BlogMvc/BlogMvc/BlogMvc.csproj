@@ -181,6 +181,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Helpers\UserHelper.cs" />
     <Compile Include="Migrations\201908091446064_InitialCreate.cs" />
     <Compile Include="Migrations\201908091446064_InitialCreate.Designer.cs">
       <DependentUpon>201908091446064_InitialCreate.cs</DependentUpon>
@@ -274,6 +275,8 @@
     <Content Include="Views\Shared\_ReadOnlyPosts.cshtml" />
     <Content Include="Views\Shared\_ReadOnlyComments.cshtml" />
     <Content Include="Views\Shared\_PostsResult.cshtml" />
+    <Content Include="Views\Shared\_newComment.cshtml" />
+    <Content Include="Views\Comments\CommentConfirmation.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

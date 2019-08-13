@@ -1,0 +1,66 @@
+﻿@model IEnumerable<Blog.Models.Post>
+@using Blog.Helpers
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Content)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreatedOn)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UpdatedOn)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PostedOn)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserFullName)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.StripHtml(item.Content,200)
+        </td>
+        <td>
+            @item.CreatedOn.ToShortDateString()
+        </td>
+        <td>
+            @item.UpdatedOn.ToShortDateString()
+        </td>
+        <td>
+            @if (item.PostedOn.HasValue)
+            {
+                @item.PostedOn.Value.ToShortDateString()
+            }
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserFullName)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            @Html.ActionLink("Comments", "Index","Comments", new { postId = item.Id },null)
+        </td>
+    </tr>
+}
+
+</table>

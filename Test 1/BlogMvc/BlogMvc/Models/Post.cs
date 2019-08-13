@@ -20,5 +20,7 @@ namespace BlogMvc.Models
         [Required]
         [StringLength(255)]
         public string UserFullName { get; set; }
+
+        public ICollection<Comment> Comments { get; set; }
     }
 }

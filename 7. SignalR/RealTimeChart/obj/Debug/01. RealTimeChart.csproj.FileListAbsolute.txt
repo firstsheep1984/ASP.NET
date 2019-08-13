@@ -1,0 +1,72 @@
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\RealTimeChart.dll.config
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\RealTimeChart.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\RealTimeChart.pdb
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\Antlr3.Runtime.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\Microsoft.Owin.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\Microsoft.Owin.Security.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\Microsoft.Web.Infrastructure.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\Newtonsoft.Json.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\Owin.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\System.Web.Helpers.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\System.Web.Mvc.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\System.Web.Optimization.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\System.Web.Razor.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\System.Web.WebPages.Deployment.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\System.Web.WebPages.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\System.Web.WebPages.Razor.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\WebGrease.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\Microsoft.Owin.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\Microsoft.Owin.Security.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\Newtonsoft.Json.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\System.Web.Helpers.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\System.Web.Mvc.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\System.Web.Razor.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\System.Web.WebPages.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\System.Web.WebPages.Deployment.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\bin\System.Web.WebPages.Razor.xml
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\obj\Debug\01. RealTimeChart.csprojResolveAssemblyReference.cache
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\obj\Debug\RealTimeChart.dll
+C:\abbott\ASP NET MVC\Changed\7. SignalR\RealTimeChart\obj\Debug\RealTimeChart.pdb
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\RealTimeChart.dll.config
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\RealTimeChart.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\RealTimeChart.pdb
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\Antlr3.Runtime.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\Microsoft.Owin.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\Microsoft.Owin.Security.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\Microsoft.Web.Infrastructure.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\Newtonsoft.Json.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\Owin.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\System.Web.Helpers.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\System.Web.Mvc.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\System.Web.Optimization.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\System.Web.Razor.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\System.Web.WebPages.Deployment.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\System.Web.WebPages.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\System.Web.WebPages.Razor.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\WebGrease.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\Microsoft.Owin.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\Microsoft.Owin.Security.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\Newtonsoft.Json.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\System.Web.Helpers.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\System.Web.Mvc.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\System.Web.Razor.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\System.Web.WebPages.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\System.Web.WebPages.Deployment.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\bin\System.Web.WebPages.Razor.xml
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\obj\Debug\01. RealTimeChart.csprojAssemblyReference.cache
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\obj\Debug\01. RealTimeChart.csproj.CoreCompileInputs.cache
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\obj\Debug\01. RealTimeChart.csproj.CopyComplete
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\obj\Debug\RealTimeChart.dll
+C:\Ricardo Artola\ASP NET MVC\Share\7. SignalR\RealTimeChart\obj\Debug\RealTimeChart.pdb

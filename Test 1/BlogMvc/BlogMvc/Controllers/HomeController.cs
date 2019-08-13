@@ -20,11 +20,11 @@ namespace BlogMvc.Controllers
         [AllowAnonymous]
         public ActionResult Index()
         {
-           
+            var posts = db.Posts.Include(p => p.Comments);
             if (User.IsInRole(RoleName.CanManage))
-                return View(db.Posts);
+                return View(posts);
             else
-                return View("_ReadOnlyPosts", db.Posts);
+                return View("_ReadOnlyPosts", posts);
             
         }
 

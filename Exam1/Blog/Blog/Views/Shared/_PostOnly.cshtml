@@ -1,0 +1,17 @@
+﻿@model Blog.Models.Post
+@using Blog.Helpers
+<div class="post-preview">
+    <a href="/Posts/Full/@Model.Id">
+        <h2 class="post-title">
+            @Model.Title
+        </h2>
+        <h3 class="post-subtitle">
+           @Html.StripHtml(Model.Content, 200)
+        </h3>
+    </a>
+    <p class="post-meta">
+        Posted by
+        <a href="#">@Model.UserFullName</a>
+        on @Model.PostedOn.Value.ToString("dddd, dd MMMM yyyy")
+    </p>
+</div>

@@ -1,4 +1,5 @@
 ﻿@model IEnumerable<BlogMvc.Models.Post>
+@using BlogMvc.Models
 @{
     ViewBag.Title = "Home Page";
 }
@@ -24,33 +25,48 @@
             <th>
                 @Html.DisplayNameFor(model => model.UserFullName)
             </th>
-           
+            <th>
+                @Html.DisplayNameFor(model => model.Comments)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Content)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreatedOn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UpdatedOn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PostedOn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserFullName)
+            </td>
+            <td>
+                @foreach (var comment in item.Comments)
+                {
+                
+                    @comment.Content <br />
+               
+                }
+
+                @if (User.Identity.IsAuthenticated)
+                {
+                    @Html.Partial("_newComment", new Comment() { PostId = item.Id })
+
+                }
+            </td>
         </tr>
+    }
 
-        @foreach (var item in Model)
-        {
-            <tr>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Title)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Content)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.CreatedOn)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.UpdatedOn)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.PostedOn)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.UserFullName)
-                </td>
-              
-            </tr>
-        }
-
-    </table>
+</table>
 </div>

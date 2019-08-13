@@ -1,0 +1,2 @@
+var user = db.Users.Where(u => u.Email == User.Identity.Name).FirstOrDefault();
+var fullUserName = user.FullName;

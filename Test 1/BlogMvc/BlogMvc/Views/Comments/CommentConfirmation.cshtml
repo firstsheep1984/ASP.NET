@@ -1,0 +1,14 @@
+﻿@model BlogMvc.Models.Comment
+
+@{
+    ViewBag.Title = "CommentConfirmation";
+}
+
+<h2>Comment Confirmation</h2>
+<div class="container">
+    The comment has been added successfully. Wait for the approval of the administrator in order to see it published.
+</div>
+<div>
+    @Html.ActionLink("Back to Home", "Index", "Home", new { id = Model.PostId }, null)
+</div>
+

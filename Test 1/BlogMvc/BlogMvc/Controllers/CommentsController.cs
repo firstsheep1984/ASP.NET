@@ -6,6 +6,7 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
+using BlogMvc.Helpers;
 using BlogMvc.Models;
 
 namespace BlogMvc.Controllers
@@ -16,10 +17,17 @@ namespace BlogMvc.Controllers
         private ApplicationDbContext db = new ApplicationDbContext();
 
         // GET: Comments
-        public ActionResult Index()
+        public ActionResult Index(int? postId)
         {
-            var comments = db.Comments.Include(c => c.Post);
-            return View(comments.ToList());
+            //var comments = db.Comments.Include(c => c.Post);
+            //return View(comments.ToList());
+
+            List<Comment> comments = null;
+            if (postId.HasValue)
+                comments = db.Comments.Include(c => c.Post).Where(c => c.PostId == postId).OrderByDescending(c => c.CreatedOn).ToList();
+            else
+                comments = db.Comments.Include(c => c.Post).OrderByDescending(c => c.CreatedOn).ToList();
+            return View(comments);
         }
 
         // GET: Comments/Details/5
@@ -119,6 +127,24 @@ namespace BlogMvc.Controllers
             db.Comments.Remove(comment);
             db.SaveChanges();
             return RedirectToAction("Index");
+        }
+
+        [HttpPost]
+        public ActionResult Add(Comment commentHomepage)
+        {
+            if (ModelState.IsValid)
+            {
+                Comment comment = new Comment();
+                comment.PostId = commentHomepage.PostId;
+                comment.CreatedOn = DateTime.Now;
+                comment.UpdatedOn = DateTime.Now;
+                comment.UserFullName = UserHelper.GetUserName(db.Users, User.Identity);
+                comment.Content = commentHomepage.Content;
+                db.Comments.Add(comment);
+                db.SaveChanges();
+                return View("CommentConfirmation", commentHomepage);
+            }
+            return new EmptyResult();
         }
 
         protected override void Dispose(bool disposing)

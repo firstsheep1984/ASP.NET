@@ -1,0 +1,11 @@
+﻿@using Blog.Models
+@model IEnumerable<Blog.Models.Post>
+<div class="row">
+    <div class="col-lg-8 col-md-10 mx-auto">
+        @foreach (var post in Model)
+        {
+            @Html.Partial("_PostOnly", post)
+            <hr>
+        }
+    </div>
+</div>
