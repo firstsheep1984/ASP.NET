@@ -54,9 +54,10 @@
             <td>
                 @foreach (var comment in item.Comments)
                 {
-                
-                    @comment.Content <br />
-               
+                    if (comment.IsPublished)
+                    {
+                        @comment.Content <br />
+                    }
                 }
 
                 @if (User.Identity.IsAuthenticated)
