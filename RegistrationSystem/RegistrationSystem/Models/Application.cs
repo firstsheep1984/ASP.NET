@@ -17,7 +17,7 @@ namespace RegistrationSystem.Models
         public DateTime BirthDate { get; set; }
 
         public Gender Gender { get; set; }
-        public int GenderId { get; set; }
+        //public int GenderId { get; set; }
 
         public string Address { get; set; }
         public string Email { get; set; }
@@ -25,10 +25,10 @@ namespace RegistrationSystem.Models
         public Byte[] Photo { get; set; }
 
         public Program Program { get; set; }
-        public int ProgramId { get; set; }
+        //public int ProgramId { get; set; }
 
         public Branch Branch { get; set; }
-        public int BranchId { get; set; }
+        //public int BranchId { get; set; }
 
         public DateTime RegistrationDate { get; set; }
         public bool Status { get; set; }
@@ -36,5 +36,27 @@ namespace RegistrationSystem.Models
 
 
 
+    }
+
+    public enum Branch
+    {
+        DownTown,
+        MacDonaldCampus
+    }
+
+    public enum Program
+    {
+        IPD,
+        Network,
+        Cisco,
+        WebSecurity,
+        WebDesign,
+        MobileApplication
+    }
+
+    public enum Gender
+    {
+        Male,
+        Female
     }
 }
