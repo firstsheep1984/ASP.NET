@@ -1,0 +1,219 @@
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\obj\Debug\AdmissionsOnlineSystem.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\ApplicationInsights.config
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\AdmissionsOnlineSystem.dll.config
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\AdmissionsOnlineSystem.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\AdmissionsOnlineSystem.pdb
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Antlr3.Runtime.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\EntityFramework.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.Web.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Newtonsoft.Json.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Owin.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Helpers.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Mvc.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Optimization.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Razor.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.WebPages.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\WebGrease.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Helpers.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Mvc.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Optimization.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Razor.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.WebPages.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Newtonsoft.Json.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\EntityFramework.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.Web.xml
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\obj\Debug\AdmissionsOnlineSystem.dll
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\obj\Debug\AdmissionsOnlineSystem.pdb
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\obj\Debug\AdmissionsOnlineSystem.Migrations.Initial.resources
+C:\Users\Ricardo\source\repos\AdmissionsOnlineSystem\AdmissionsOnlineSystem\obj\Debug\AdmissionsOnlineSystem.csproj.GenerateResource.Cache
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\ApplicationInsights.config
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\AdmissionsOnlineSystem.dll.config
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\AdmissionsOnlineSystem.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\AdmissionsOnlineSystem.pdb
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Antlr3.Runtime.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\EntityFramework.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\EntityFramework.SqlServer.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.DependencyCollector.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.Web.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.WindowsServer.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.ApplicationInsights.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Newtonsoft.Json.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Owin.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Helpers.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Mvc.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Optimization.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Razor.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.WebPages.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.WebPages.Razor.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\WebGrease.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Helpers.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Mvc.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Optimization.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Razor.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.WebPages.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.WebPages.Razor.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Antlr3.Runtime.pdb
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Newtonsoft.Json.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\EntityFramework.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\EntityFramework.SqlServer.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.ApplicationInsights.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.DependencyCollector.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.WindowsServer.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.Web.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\obj\Debug\AdmissionsOnlineSystem.csprojAssemblyReference.cache
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\obj\Debug\AdmissionsOnlineSystem.Migrations.Initial.resources
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\obj\Debug\AdmissionsOnlineSystem.csproj.GenerateResource.cache
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\obj\Debug\AdmissionsOnlineSystem.csproj.CoreCompileInputs.cache
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\obj\Debug\AdmissionsOnlineSystem.csproj.CopyComplete
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\obj\Debug\AdmissionsOnlineSystem.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\obj\Debug\AdmissionsOnlineSystem.pdb
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\ApplicationInsights.config
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\AdmissionsOnlineSystem.dll.config
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\AdmissionsOnlineSystem.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\AdmissionsOnlineSystem.pdb
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Antlr3.Runtime.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\EntityFramework.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.Web.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Newtonsoft.Json.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Owin.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Helpers.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Mvc.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Optimization.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Razor.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.WebPages.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\WebGrease.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Helpers.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Mvc.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Optimization.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.Razor.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.WebPages.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Antlr3.Runtime.pdb
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Newtonsoft.Json.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\EntityFramework.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\bin\Microsoft.AI.Web.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\obj\Debug\AdmissionsOnlineSystem.Migrations.Initial.resources
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\obj\Debug\AdmissionsOnlineSystem.csproj.GenerateResource.cache
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\obj\Debug\AdmissionsOnlineSystem.csproj.CoreCompileInputs.cache
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\obj\Debug\AdmissionsOnlineSystem.csproj.CopyComplete
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\obj\Debug\AdmissionsOnlineSystem.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\AdmissionsOnlineSystem\AdmissionsOnlineSystem\obj\Debug\AdmissionsOnlineSystem.pdb

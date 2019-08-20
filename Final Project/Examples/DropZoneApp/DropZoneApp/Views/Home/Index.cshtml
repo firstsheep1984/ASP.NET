@@ -1,0 +1,93 @@
+﻿@Styles.Render("~/Content/dropzone-css")
+
+<div class="jumbotron">
+    <h1>dropzone test</h1>
+</div>
+
+
+<!-- Button trigger modal -->
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#uploadPhotoModal">
+    Launch demo modal
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="uploadPhotoModal" tabindex="-1" role="dialog" aria-labelledby="uploadPhotoModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="uploadPhotoLabel">Upload a photo</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    @using (Ajax.BeginForm("FileUpload", "Home", null,new AjaxOptions() { HttpMethod= "POST" },
+                           new
+                           {
+                               @class = "dropzone",
+                               id = "dropzone-form",
+                           }))
+                    {
+                        <div class="fallback">
+                            <input name="file" type="file" />
+                        </div>
+                    }
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary cleanDropZone" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary saveDropZone">Save changes</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section scripts {
+    @Scripts.Render("~/bundles/dropzone")
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var myDropzone;
+            Dropzone.autoDiscover = false;
+            $(".dropzone").dropzone({
+                paramName: "file",
+                maxFilesize: 3,//max 3MB
+                acceptedFiles: "image/*",
+                maxFiles: 1,
+                init: function () {
+                    myDropzone = this;
+                    myDropzone.on("maxfilesexceeded", function (file) {
+                        this.removeAllFiles();
+                        this.addFile(file);
+                    });
+                },
+                error: function (file, response) {
+                    this.removeAllFiles();
+                    if(response.indexOf("can not upload")<0)
+                        alert(response)
+                }
+            });
+            $(".saveDropZone").on('click', function () {
+                myDropzone.removeAllFiles();
+                $('#uploadPhotoModal').modal('hide');
+            })
+            $(".cleanDropZone").on('click', function () {
+                $.ajax({
+                    url: '/Home/RemoveUpload',
+                    type: 'post',
+                    dataType: 'json',
+                    success: function (response) {
+                        if (!response.success)
+                            alert('file not removed');
+                        else
+                            if (myDropzone != null)
+                                myDropzone.removeAllFiles();
+                    }
+                });
+            })
+        });
+
+    </script>
+}

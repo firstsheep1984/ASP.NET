@@ -1,0 +1,128 @@
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\ApplicationInsights.config
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\DropZoneApp.dll.config
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\DropZoneApp.dll
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\DropZoneApp.pdb
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\Antlr3.Runtime.dll
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\Microsoft.AI.Web.dll
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\Microsoft.ApplicationInsights.dll
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\Newtonsoft.Json.dll
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\System.Web.Helpers.dll
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\System.Web.Mvc.dll
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\System.Web.Optimization.dll
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\System.Web.Razor.dll
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\System.Web.WebPages.Deployment.dll
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\System.Web.WebPages.dll
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\System.Web.WebPages.Razor.dll
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\WebGrease.dll
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\System.Web.Helpers.xml
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\System.Web.Mvc.xml
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\System.Web.Optimization.xml
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\System.Web.Razor.xml
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\System.Web.WebPages.xml
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\System.Web.WebPages.Deployment.xml
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\System.Web.WebPages.Razor.xml
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\Antlr3.Runtime.pdb
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\Newtonsoft.Json.xml
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\Microsoft.ApplicationInsights.xml
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\bin\Microsoft.AI.Web.xml
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\obj\Debug\DropZoneApp.csproj.CoreCompileInputs.cache
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\obj\Debug\DropZoneApp.dll
+c:\users\ricardo\source\repos\DropZoneApp\DropZoneApp\obj\Debug\DropZoneApp.pdb
+C:\Users\Ricardo\source\repos\DropZoneApp\DropZoneApp\obj\Debug\DropZoneApp.csprojResolveAssemblyReference.cache
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\ApplicationInsights.config
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\DropZoneApp.dll.config
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\DropZoneApp.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\DropZoneApp.pdb
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Antlr3.Runtime.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.AI.Web.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.ApplicationInsights.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Newtonsoft.Json.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.Helpers.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.Mvc.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.Optimization.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.Razor.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.WebPages.Deployment.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.WebPages.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.WebPages.Razor.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\WebGrease.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.Helpers.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.Mvc.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.Optimization.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.Razor.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.WebPages.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.WebPages.Deployment.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.WebPages.Razor.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Antlr3.Runtime.pdb
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Newtonsoft.Json.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.ApplicationInsights.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.AI.Web.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\obj\Debug\DropZoneApp.csprojAssemblyReference.cache
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\obj\Debug\DropZoneApp.csproj.CoreCompileInputs.cache
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\obj\Debug\DropZoneApp.csproj.CopyComplete
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\obj\Debug\DropZoneApp.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Final Project\Examples\DropZoneApp\DropZoneApp\obj\Debug\DropZoneApp.pdb
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\ApplicationInsights.config
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\DropZoneApp.dll.config
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\DropZoneApp.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\DropZoneApp.pdb
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Antlr3.Runtime.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.AI.Web.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Newtonsoft.Json.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.Helpers.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.Mvc.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.Optimization.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.Razor.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.WebPages.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\WebGrease.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.Helpers.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.Mvc.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.Optimization.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.Razor.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.WebPages.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Antlr3.Runtime.pdb
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Newtonsoft.Json.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\bin\Microsoft.AI.Web.xml
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\obj\Debug\DropZoneApp.csprojAssemblyReference.cache
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\obj\Debug\DropZoneApp.csproj.CoreCompileInputs.cache
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\obj\Debug\DropZoneApp.csproj.CopyComplete
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\obj\Debug\DropZoneApp.dll
+C:\Users\ipd\Documents\ASP.NET\Final Project\Examples\DropZoneApp\DropZoneApp\obj\Debug\DropZoneApp.pdb
