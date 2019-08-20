@@ -1,0 +1,36 @@
+﻿@model MvcPartialViewResultDemo.Models.CustomerModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Customer Details</h2>
+
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CustmerId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CustmerId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CustomerName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CustomerName)
+        </dd>
+
+        @Html.Partial("_CustomerAddressDetails", Model.PermanantAddress)
+    
+        @Html.Partial("_CustomerAddressDetails", Model.PresentAddress)
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.CustmerId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

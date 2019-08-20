@@ -1,0 +1,357 @@
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\VideoRental.dll.config
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\VideoRental.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\VideoRental.pdb
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\csc.exe
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\csc.exe.config
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\csc.rsp
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\csi.exe
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\csi.exe.config
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\csi.rsp
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.AppContext.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.Console.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.IO.Compression.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.IO.Pipes.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.Security.Claims.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.ValueTuple.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.Xml.XPath.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\vbc.exe
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\vbc.exe.config
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\vbc.rsp
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\VBCSCompiler.exe
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Antlr3.Runtime.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\EntityFramework.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\EntityFramework.SqlServer.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.Owin.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.Owin.Security.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Newtonsoft.Json.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Owin.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\System.Web.Helpers.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\System.Web.Mvc.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\System.Web.Optimization.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\System.Web.Razor.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\System.Web.WebPages.Deployment.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\System.Web.WebPages.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\System.Web.WebPages.Razor.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\WebGrease.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\System.Web.Helpers.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\System.Web.Mvc.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\System.Web.Optimization.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\System.Web.Razor.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\System.Web.WebPages.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\System.Web.WebPages.Deployment.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\System.Web.WebPages.Razor.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Newtonsoft.Json.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Antlr3.Runtime.pdb
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\EntityFramework.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\EntityFramework.SqlServer.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.Owin.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.Owin.Security.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\teacher\source\repos\VideoRental\VideoRental\obj\Debug\VideoRental.csprojAssemblyReference.cache
+C:\Users\teacher\source\repos\VideoRental\VideoRental\obj\Debug\VideoRental.csproj.CoreCompileInputs.cache
+C:\Users\teacher\source\repos\VideoRental\VideoRental\obj\Debug\VideoRental.csproj.CopyComplete
+C:\Users\teacher\source\repos\VideoRental\VideoRental\obj\Debug\VideoRental.dll
+C:\Users\teacher\source\repos\VideoRental\VideoRental\obj\Debug\VideoRental.pdb
+C:\Users\teacher\source\repos\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.InitialSetup.resources
+C:\Users\teacher\source\repos\VideoRental\VideoRental\obj\Debug\VideoRental.csproj.GenerateResource.cache
+C:\Users\teacher\source\repos\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.PopulateUsers.resources
+C:\Users\teacher\source\repos\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.MovieGenreCreation.resources
+C:\Users\teacher\source\repos\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.GenreInitialization.resources
+C:\Users\teacher\source\repos\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.CreateCustomersAndMembershipTypes.resources
+C:\Users\teacher\source\repos\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.UpdateLengthMembership.resources
+C:\Users\teacher\source\repos\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.AddMembershipTypes.resources
+C:\Users\teacher\source\repos\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.BirthDateChange.resources
+C:\Users\teacher\source\repos\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.Change.resources
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\VideoRental.dll.config
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\VideoRental.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\VideoRental.pdb
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\csc.exe
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\csc.exe.config
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\csc.rsp
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\csi.exe
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\csi.exe.config
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\csi.rsp
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.AppContext.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.Collections.Immutable.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.Console.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.IO.Compression.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.IO.FileSystem.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.IO.Pipes.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.Reflection.Metadata.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.Security.AccessControl.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.Security.Claims.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.ValueTuple.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.Xml.XPath.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\vbc.exe
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\vbc.exe.config
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\vbc.rsp
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\VBCSCompiler.exe
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\roslyn\VBCSCompiler.exe.config
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Antlr3.Runtime.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\EntityFramework.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\EntityFramework.SqlServer.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.Owin.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.Owin.Security.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Google.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.Web.Infrastructure.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Newtonsoft.Json.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Owin.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\System.Web.Helpers.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\System.Web.Mvc.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\System.Web.Optimization.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\System.Web.Razor.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\System.Web.WebPages.Deployment.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\System.Web.WebPages.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\System.Web.WebPages.Razor.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\WebGrease.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\System.Web.Helpers.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\System.Web.Mvc.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\System.Web.Optimization.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\System.Web.Razor.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\System.Web.WebPages.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\System.Web.WebPages.Deployment.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\System.Web.WebPages.Razor.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Newtonsoft.Json.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Antlr3.Runtime.pdb
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\EntityFramework.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\EntityFramework.SqlServer.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.Owin.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.Owin.Security.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Google.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\obj\Debug\VideoRental.csprojAssemblyReference.cache
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.InitialSetup.resources
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.PopulateUsers.resources
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.MovieGenreCreation.resources
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.GenreInitialization.resources
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.CreateCustomersAndMembershipTypes.resources
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.UpdateLengthMembership.resources
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.AddMembershipTypes.resources
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.BirthDateChange.resources
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.Change.resources
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\obj\Debug\VideoRental.csproj.GenerateResource.cache
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\obj\Debug\VideoRental.csproj.CoreCompileInputs.cache
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\obj\Debug\VideoRental.csproj.CopyComplete
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\obj\Debug\VideoRental.dll
+C:\Ricardo Artola\ASP NET MVC\Share\VideoRental\VideoRental\obj\Debug\VideoRental.pdb
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\VideoRental.dll.config
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\VideoRental.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\VideoRental.pdb
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\csc.exe
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\csc.exe.config
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\csc.rsp
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\csi.exe
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\csi.exe.config
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\csi.rsp
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.AppContext.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.Console.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.IO.Compression.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.Security.Claims.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.ValueTuple.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\vbc.exe
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\vbc.exe.config
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\vbc.rsp
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\VBCSCompiler.exe
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Antlr3.Runtime.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\EntityFramework.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\EntityFramework.SqlServer.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.Owin.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.Owin.Security.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Newtonsoft.Json.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Owin.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\System.Web.Helpers.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\System.Web.Mvc.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\System.Web.Optimization.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\System.Web.Razor.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\System.Web.WebPages.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\System.Web.WebPages.Razor.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\WebGrease.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\System.Web.Helpers.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\System.Web.Mvc.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\System.Web.Optimization.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\System.Web.Razor.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\System.Web.WebPages.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\System.Web.WebPages.Razor.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Newtonsoft.Json.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Antlr3.Runtime.pdb
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\EntityFramework.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\EntityFramework.SqlServer.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.Owin.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.Owin.Security.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\obj\Debug\VideoRental.csprojAssemblyReference.cache
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.InitialSetup.resources
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.PopulateUsers.resources
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.MovieGenreCreation.resources
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.GenreInitialization.resources
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.CreateCustomersAndMembershipTypes.resources
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.UpdateLengthMembership.resources
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.AddMembershipTypes.resources
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.BirthDateChange.resources
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\obj\Debug\VideoRental.Migrations.Change.resources
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\obj\Debug\VideoRental.csproj.GenerateResource.cache
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\obj\Debug\VideoRental.csproj.CoreCompileInputs.cache
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\obj\Debug\VideoRental.csproj.CopyComplete
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\obj\Debug\VideoRental.dll
+C:\Users\ipd\Documents\ASP.NET\VideoRental\VideoRental\obj\Debug\VideoRental.pdb

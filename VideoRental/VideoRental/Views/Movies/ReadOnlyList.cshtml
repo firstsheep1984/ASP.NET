@@ -1,0 +1,24 @@
+﻿@model IEnumerable<VideoRental.Models.Movie>
+<h2>Movies</h2>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Genre.Name)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @item.Name
+        </td>
+        <td>
+            @item.Genre.Name
+        </td>
+    </tr>
+}
+
+</table>

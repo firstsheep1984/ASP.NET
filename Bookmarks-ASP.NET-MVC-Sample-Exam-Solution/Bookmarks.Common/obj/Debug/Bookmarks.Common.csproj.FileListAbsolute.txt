@@ -1,0 +1,12 @@
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Common\bin\Debug\AutoMapper.Net4.dll
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Common\bin\Debug\Bookmarks.Common.dll
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Common\bin\Debug\Bookmarks.Common.pdb
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Common\bin\Debug\AutoMapper.dll
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Common\bin\Debug\AutoMapper.pdb
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Common\bin\Debug\AutoMapper.xml
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Common\bin\Debug\AutoMapper.Net4.pdb
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Common\obj\Debug\Bookmarks.Common.csprojAssemblyReference.cache
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Common\obj\Debug\Bookmarks.Common.csproj.CoreCompileInputs.cache
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Common\obj\Debug\Bookmarks.Common.csproj.CopyComplete
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Common\obj\Debug\Bookmarks.Common.dll
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Common\obj\Debug\Bookmarks.Common.pdb

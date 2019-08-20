@@ -1,0 +1,226 @@
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\MvcPartialViewResultDemo.dll.config
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\MvcPartialViewResultDemo.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\MvcPartialViewResultDemo.pdb
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Antlr3.Runtime.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\EntityFramework.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\EntityFramework.SqlServer.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Google.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Web.Infrastructure.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Newtonsoft.Json.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Owin.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Helpers.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Mvc.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Optimization.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Razor.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.Deployment.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.Razor.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\WebGrease.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Helpers.xml
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Mvc.xml
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Optimization.xml
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Razor.xml
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.xml
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.Deployment.xml
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.Razor.xml
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Antlr3.Runtime.pdb
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Newtonsoft.Json.xml
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\EntityFramework.xml
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\EntityFramework.SqlServer.xml
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.xml
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.xml
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Google.xml
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\obj\Debug\MvcPartialViewResultDemo.csprojResolveAssemblyReference.cache
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\obj\Debug\MvcPartialViewResultDemo.dll
+E:\Practice\Practice\14-Sep-2014\MvcPartialViewResultDemo\MvcPartialViewResultDemo\obj\Debug\MvcPartialViewResultDemo.pdb
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\MvcPartialViewResultDemo.dll.config
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\MvcPartialViewResultDemo.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\MvcPartialViewResultDemo.pdb
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Antlr3.Runtime.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\EntityFramework.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Newtonsoft.Json.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Owin.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Helpers.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Mvc.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Optimization.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Razor.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\WebGrease.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Helpers.xml
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Mvc.xml
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Optimization.xml
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Razor.xml
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.xml
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Antlr3.Runtime.pdb
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Newtonsoft.Json.xml
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\EntityFramework.xml
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.xml
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.xml
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\obj\Debug\MvcPartialViewResultDemo.csprojAssemblyReference.cache
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\obj\Debug\MvcPartialViewResultDemo.csproj.CoreCompileInputs.cache
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\obj\Debug\MvcPartialViewResultDemo.csproj.CopyComplete
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\obj\Debug\MvcPartialViewResultDemo.dll
+C:\Users\teacher\Downloads\MvcPartialViewResultDemo\MvcPartialViewResultDemo\obj\Debug\MvcPartialViewResultDemo.pdb
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\MvcPartialViewResultDemo.dll.config
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\MvcPartialViewResultDemo.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\MvcPartialViewResultDemo.pdb
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Antlr3.Runtime.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\EntityFramework.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\EntityFramework.SqlServer.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.Core.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Cookies.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Facebook.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Google.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.OAuth.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Twitter.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Web.Infrastructure.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Newtonsoft.Json.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Owin.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Helpers.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Mvc.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Optimization.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Razor.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.Deployment.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.Razor.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\WebGrease.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Helpers.xml
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Mvc.xml
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Optimization.xml
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Razor.xml
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.xml
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.Deployment.xml
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.Razor.xml
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Antlr3.Runtime.pdb
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Newtonsoft.Json.xml
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\EntityFramework.xml
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\EntityFramework.SqlServer.xml
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.Core.xml
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.xml
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.xml
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Facebook.xml
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Cookies.xml
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.OAuth.xml
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Google.xml
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Twitter.xml
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\obj\Debug\MvcPartialViewResultDemo.csprojAssemblyReference.cache
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\obj\Debug\MvcPartialViewResultDemo.csproj.CoreCompileInputs.cache
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\obj\Debug\MvcPartialViewResultDemo.csproj.CopyComplete
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\obj\Debug\MvcPartialViewResultDemo.dll
+\\BH213-16\Share\practice partial views\MvcPartialViewResultDemo\MvcPartialViewResultDemo\obj\Debug\MvcPartialViewResultDemo.pdb
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\MvcPartialViewResultDemo.dll.config
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\MvcPartialViewResultDemo.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\MvcPartialViewResultDemo.pdb
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Antlr3.Runtime.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\EntityFramework.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Newtonsoft.Json.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Owin.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Helpers.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Mvc.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Optimization.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Razor.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\WebGrease.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Helpers.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Mvc.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Optimization.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.Razor.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Antlr3.Runtime.pdb
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Newtonsoft.Json.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\EntityFramework.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\obj\Debug\MvcPartialViewResultDemo.csprojAssemblyReference.cache
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\obj\Debug\MvcPartialViewResultDemo.csproj.CoreCompileInputs.cache
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\obj\Debug\MvcPartialViewResultDemo.csproj.CopyComplete
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\obj\Debug\MvcPartialViewResultDemo.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\MvcPartialViewResultDemo\MvcPartialViewResultDemo\obj\Debug\MvcPartialViewResultDemo.pdb

@@ -1,0 +1,61 @@
+﻿@model IEnumerable<MvcPartialViewResultDemo.Models.CustomerModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+<style type="text/css">
+    .customer th {
+        text-align: center; 
+    }
+    .customer tr td {
+        vertical-align: middle !important;
+    }
+</style>
+
+<h2>Customer Details</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table customer">
+    @*Headers*@
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CustmerId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CustomerName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PresentAddress)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PermanantAddress)
+        </th>
+        <th></th>
+    </tr>
+    
+    @*Customer Data*@
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustmerId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerName)
+            </td>
+            <td>
+                @Html.Partial("_CustomerAddressDetails",item.PresentAddress)
+            </td>
+            <td>
+                @Html.Partial("_CustomerAddressDetails", item.PermanantAddress)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.CustmerId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.CustmerId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.CustmerId })
+            </td>
+        </tr>
+    }
+
+</table>

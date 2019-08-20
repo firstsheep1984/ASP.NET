@@ -1,0 +1,16 @@
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Models\bin\Debug\Bookmarks.Models.dll.config
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Models\bin\Debug\Bookmarks.Models.dll
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Models\bin\Debug\Bookmarks.Models.pdb
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Models\bin\Debug\EntityFramework.dll
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Models\bin\Debug\EntityFramework.SqlServer.dll
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Models\bin\Debug\EntityFramework.xml
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Models\bin\Debug\EntityFramework.SqlServer.xml
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Models\obj\Debug\Bookmarks.Models.csprojAssemblyReference.cache
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Models\obj\Debug\Bookmarks.Models.csproj.CoreCompileInputs.cache
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Models\obj\Debug\Bookmarks.Models.csproj.CopyComplete
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Models\obj\Debug\Bookmarks.Models.dll
+F:\Bookmarks-ASP.NET-MVC-Sample-Exam-Solution\Bookmarks.Models\obj\Debug\Bookmarks.Models.pdb
