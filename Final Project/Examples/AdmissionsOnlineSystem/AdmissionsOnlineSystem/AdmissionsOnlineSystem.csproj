@@ -230,6 +230,8 @@
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.js" />
+    <Content Include="Scripts\jquery.unobtrusive-ajax.min.js" />
     <Content Include="Scripts\jquery.validate.js" />
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
@@ -275,6 +277,12 @@
     <Content Include="Views\Applications\Edit.cshtml" />
     <Content Include="Views\Applications\EducationDetails.cshtml" />
     <Content Include="Views\Applications\CreateEducationDetails.cshtml" />
+    <Content Include="Views\Applications\EditEducationDetails.cshtml" />
+    <Content Include="Views\Applications\DeleteEducationDetails.cshtml" />
+    <Content Include="Views\Applications\EnclosedDocuments.cshtml" />
+    <Content Include="Views\Applications\CreateEnclosedDocuments.cshtml" />
+    <Content Include="Views\Shared\_Applicates.cshtml" />
+    <Content Include="Views\Applications\_StudentDetailsTab.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

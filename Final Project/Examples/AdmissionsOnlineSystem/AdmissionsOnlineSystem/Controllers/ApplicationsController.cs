@@ -6,6 +6,7 @@ using System.Web.Mvc;
 using AdmissionsOnlineSystem.Models;
 using AdmissionsOnlineSystem.ViewModels;
 using System.Collections.Generic;
+using System;
 
 namespace AdmissionsOnlineSystem.Controllers
 {
@@ -26,6 +27,14 @@ namespace AdmissionsOnlineSystem.Controllers
                 Application application = db.Applications.Include(a => a.Department).Include(a => a.Program).Where(a => a.ApplicationId == id).FirstOrDefault();
                 return View(application);
             }*/
+        }
+
+        [Authorize(Roles = RoleName.CanManage)]
+        public ActionResult Search(string query)
+        {
+            var applicates = db.Applications;
+            var subset = applicates.Where(a => a.FirstName.StartsWith(query));        
+            return this.PartialView("_Applicates", subset.ToList());
         }
 
         [Authorize]
@@ -114,7 +123,7 @@ namespace AdmissionsOnlineSystem.Controllers
                 db.SaveChanges();
                 if (application.EducationDetails == null)
                     application.EducationDetails = new List<EducationDetail>();
-                return RedirectToAction("EducationDetails", "Applications", new { id = application.ApplicationId });
+                return RedirectToAction("EducationDetails", "Applications", new { appId = application.ApplicationId });
             }
 
             PopulateDropDownLists(applicationVM.DepartmentId, applicationVM.ProgramId);
@@ -151,12 +160,12 @@ namespace AdmissionsOnlineSystem.Controllers
         }
 
         [Authorize]
-        public ActionResult EducationDetails(string id)
+        public ActionResult EducationDetails(string appId)
         {
-            if (id == null)
-                id = User.Identity.GetUserId();
+            if (appId == null)
+                appId = User.Identity.GetUserId();
 
-            Application application = db.Applications.Include(a => a.Department).Include(a => a.Program).Where(a => a.ApplicationId == id).FirstOrDefault();
+            Application application = db.Applications.Include(a => a.Department).Include(a => a.Program).Where(a => a.ApplicationId == appId).FirstOrDefault();
             if (application == null)
             {
                 return HttpNotFound();
@@ -167,7 +176,109 @@ namespace AdmissionsOnlineSystem.Controllers
             return View(educationDetails);
         }
 
-       
+        [HttpGet]
+        public ActionResult EditEducationDetails(int id)
+        {
+            EducationDetail educationDetail = db.EducationDetails.Include(e => e.Application).Where(e => e.Id == id).FirstOrDefault();
+            return View(educationDetail);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult EditEducationDetails(EducationDetail educationDetail)
+        {
+            if (ModelState.IsValid)
+            {
+                db.Entry(educationDetail).State = EntityState.Modified;
+                db.SaveChanges();
+               
+                return RedirectToAction("EducationDetails", "Applications", new { appId = educationDetail.ApplicationId });
+            }
+            return View(educationDetail);
+        }
+
+        [HttpGet]
+        public ActionResult DeleteEducationDetails(int id)
+        {
+            EducationDetail educationDetail = db.EducationDetails.Include(e => e.Application).Where(e => e.Id == id).FirstOrDefault();
+            return View(educationDetail);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult DeleteEducationDetails(EducationDetail educationDetail)
+        {
+            if (ModelState.IsValid)
+            {
+                string applicationId = educationDetail.ApplicationId;
+                db.Entry(educationDetail).State = EntityState.Deleted;
+                db.EducationDetails.Remove(educationDetail);
+                db.SaveChanges();
+
+                return RedirectToAction("EducationDetails", "Applications", new { appId = applicationId });
+            }
+            return View(educationDetail);
+        }
+
+        [Authorize]
+        public ActionResult EnclosedDocuments(string appId)
+        {
+            if (appId == null)
+                appId = User.Identity.GetUserId();
+
+            Application application = db.Applications.Include(a => a.Department).Include(a => a.Program).Where(a => a.ApplicationId == appId).FirstOrDefault();
+            if (application == null)
+            {
+                return HttpNotFound();
+            }
+
+            List<EnclosedDocument> enclosedDocuments = db.EnclosedDocuments.Include(e => e.Application).Where(e => e.ApplicationId == application.ApplicationId).ToList();
+
+            return View(enclosedDocuments);
+        }
+
+        [Authorize]
+        [HttpGet]
+        public ActionResult CreateEnclosedDocuments(string appId)
+        {
+            Application application = db.Applications.Find(appId);
+            EnclosedDocument enclosedDocument = new EnclosedDocument();
+            enclosedDocument.Application = application;
+            enclosedDocument.ApplicationId = application.ApplicationId;
+            return View(enclosedDocument);
+        }
+
+        [HttpPost]
+        [ValidateInput(false)]
+        public ActionResult CreateEnclosedDocuments(EnclosedDocument enclosedDocument)
+        {
+            Application application = db.Applications.Find(enclosedDocument.ApplicationId);
+            enclosedDocument.Application = application;
+            if (ModelState.IsValid)
+            {
+
+                db.EnclosedDocuments.Add(enclosedDocument);
+                db.SaveChanges();
+                return RedirectToAction("EnclosedDocuments", "Applications", new { appId = enclosedDocument.ApplicationId });
+            }
+
+            return View(enclosedDocument);
+        }
+
+        public ActionResult _StudentDetailsTab(string id)
+        {
+            return View();
+        }
+
+        public ActionResult _EducationDetailsTab(string id)
+        {
+            return PartialView();
+        }
+
+        public ActionResult _EnclosedDocumentsTab(string id)
+        {
+            return PartialView();
+        }
 
         protected override void Dispose(bool disposing)
         {

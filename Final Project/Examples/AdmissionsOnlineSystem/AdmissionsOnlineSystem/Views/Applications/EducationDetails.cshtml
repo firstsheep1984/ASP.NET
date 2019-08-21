@@ -1,13 +1,13 @@
 ﻿@model IEnumerable<AdmissionsOnlineSystem.Models.EducationDetail>
 
 @{
-    ViewBag.Title = "EducationDetails";
+    ViewBag.Title = "Education Details";
 }
 
 <h2>EducationDetails</h2>
 
 <p>
-    @Html.ActionLink("Create New", "CreateEducationDetails", new { appId = ViewContext.RouteData.Values["id"] })
+    @Html.ActionLink("Create New", "CreateEducationDetails", new { appId = Request.QueryString["appId"] })
 </p>
 <table class="table">
     <tr>
@@ -60,11 +60,13 @@
                 @Html.DisplayFor(modelItem => item.Percentage)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
-                @Html.ActionLink("Details", "Details", new { id = item.Id }) |
-                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                @Html.ActionLink("Edit", "EditEducationDetails", new { id = item.Id }) | 
+                @Html.ActionLink("Delete", "DeleteEducationDetails", new { id = item.Id })
             </td>
         </tr>
     }
 
 </table>
+<p>
+    @Html.ActionLink("Next", "EnclosedDocuments", new { appId = Request.QueryString["appId"] })
+</p>

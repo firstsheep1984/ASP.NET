@@ -82,7 +82,7 @@ namespace AdmissionsOnlineSystem.Controllers
                     if (!User.IsInRole(RoleName.CanManage))
                         return RedirectToAction("Edit", "Applications");
                     else
-                        return RedirectToLocal(returnUrl);
+                        return RedirectToAction("Index", "Applications");
                 case SignInStatus.LockedOut:
                     return View("Lockout");
                 case SignInStatus.RequiresVerification:
