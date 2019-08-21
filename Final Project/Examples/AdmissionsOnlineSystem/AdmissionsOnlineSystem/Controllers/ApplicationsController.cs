@@ -265,9 +265,10 @@ namespace AdmissionsOnlineSystem.Controllers
             return View(enclosedDocument);
         }
 
-        public ActionResult _StudentDetailsTab(string id)
+        public ActionResult Details(string id)
         {
-            return View();
+            Application application = db.Applications.Include(p => p.Department).Include(p => p.Program).Where(p=>p.ApplicationId == id).FirstOrDefault();
+            return View("_StudentDetailsTab", application);
         }
 
         public ActionResult _EducationDetailsTab(string id)
