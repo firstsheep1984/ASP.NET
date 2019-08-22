@@ -1,0 +1,43 @@
+﻿@model IEnumerable<AdmissionsOnlineSystem.Models.EnclosedDocument>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Application.FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DocumentType)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DocumentFile)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Application.FirstName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DocumentType)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        @if (item.DocumentFile != null)
+        {
+            <td>Uploaded</td>
+        }
+        else
+        {
+            <td></td>
+        }
+    </tr>
+}
+
+</table>

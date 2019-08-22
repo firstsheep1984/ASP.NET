@@ -1,0 +1,63 @@
+﻿@model IPagedList<HomeInventory.Models.HomeItem>
+@using HomeInventory.Helpers
+@using PagedList
+@using PagedList.Mvc
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(modelItem => modelItem.FirstOrDefault().Photo)
+        </th>
+        <th>
+            @Html.ActionLink("Description", "Index", new { sortOrder = "description", sortDir = string.IsNullOrEmpty(ViewBag.sortDir) ? "asc" : (ViewBag.sortDir == "asc" ? "desc" : "asc"), currentFilter = ViewBag.CurrentFilter })
+            @Html.GetArrow((string)ViewBag.sortOrder, "description", (string)ViewBag.sortDir)
+        </th>
+        <th>
+            @Html.ActionLink("Location", "Index", new { sortOrder = "location", sortDir = string.IsNullOrEmpty(ViewBag.sortDir) ? "asc" : (ViewBag.sortDir == "asc" ? "desc" : "asc"), currentFilter = ViewBag.CurrentFilter })
+            @Html.GetArrow((string)ViewBag.sortOrder, "location", (string)ViewBag.sortDir)
+        </th>
+
+        <th>
+            @Html.ActionLink("Model", "Index", new { sortOrder = "model", sortDir = string.IsNullOrEmpty(ViewBag.sortDir) ? "asc" : (ViewBag.sortDir == "asc" ? "desc" : "asc"), currentFilter = ViewBag.CurrentFilter })
+            @Html.GetArrow((string)ViewBag.sortOrder, "model", (string)ViewBag.sortDir)
+        </th>
+        <th>
+            @Html.ActionLink("Serial Number", "Index", new { sortOrder = "serialnumber", sortDir = string.IsNullOrEmpty(ViewBag.sortDir) ? "asc" : (ViewBag.sortDir == "asc" ? "desc" : "asc"), currentFilter = ViewBag.CurrentFilter })
+            @Html.GetArrow((string)ViewBag.sortOrder, "serialnumber", (string)ViewBag.sortDir)
+        </th>
+        <th>
+            @Html.DisplayNameFor(modelItem => modelItem.FirstOrDefault().PurchaseInfo)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.GetThumbnail(item.Photo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Location.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Model)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SerialNumber)
+            </td>
+            <td>
+                @Html.Partial("_PurchaseInfo", item.PurchaseInfo)
+            </td>
+            <td>
+                @Html.ActionLink("Details", "Details", new { id = item.HomeItemId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.HomeItemId })
+            </td>
+        </tr>
+    }
+
+</table>
+
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }))

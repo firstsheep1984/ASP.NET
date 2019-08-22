@@ -15,6 +15,12 @@
         <th>
             @Html.DisplayNameFor(model => model.TelePhoneNumber)
         </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Department)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Program)
+        </th>
         <th></th>
     </tr>
 
@@ -33,9 +39,15 @@
             @Html.DisplayFor(modelItem => item.TelePhoneNumber)
         </td>
         <td>
-            
-            @Html.ActionLink("Details", "Details", new { id=item.ApplicationId }) 
-            
+            @Html.DisplayFor(modelItem => item.Department.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Program.Name)
+        </td>
+        <td>
+
+            @Html.ActionLink("Details", "Details", new { id = item.ApplicationId })
+
         </td>
     </tr>
 }

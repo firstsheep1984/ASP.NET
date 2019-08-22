@@ -1,0 +1,9 @@
+Create a phone book application. In the first activity, add two buttons. 
+
+One of them will go to a ListView which shows a list of all persons in alphabetical order. (4 marks)
+User can select a person to go to the detail activity to see a person's image, phone, email, and address. (4 marks)
+User should be able to make a phone call or send a message from detail activity. (4 marks)
+
+The other button will go to PersonActivity which user can add a new person to the phone book, remove a person by last name or find a person by last name. (4 marks)
+
+By receiving an incoming message, toast the user name and image. (4 marks)

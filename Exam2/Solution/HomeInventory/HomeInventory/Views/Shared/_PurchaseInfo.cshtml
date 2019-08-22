@@ -1,0 +1,44 @@
+﻿@model HomeInventory.Models.PurchaseInfo
+
+<table class="table borderless">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.When)
+        </th>
+        <td>
+            @if (Model.When.HasValue)
+            {
+                @Model.When.Value.ToString("D")
+            }
+            else
+            {
+                @Html.Raw("&nbsp;")
+            }
+        </td>
+    </tr>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Where)
+        </th>
+        <td>
+            @Html.DisplayFor(model => model.Where)
+        </td>
+    </tr>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Warranty)
+        </th>
+        <td>
+            @Html.DisplayFor(model => model.Warranty)
+        </td>
+    </tr>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <td>
+            @Html.DisplayFor(model => model.Price)
+        </td>
+    </tr>
+</table>
+

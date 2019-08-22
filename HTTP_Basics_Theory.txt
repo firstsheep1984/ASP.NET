@@ -1,0 +1,12 @@
+What is HTTP?
+HTTP Basic Features
+What is a HTTP Request?
+What is a HTTP Response?
+When a "GET" method is used?
+When a "POST" method is used?
+What is a session?
+Use of a session
+
+https://www.tutorialspoint.com/http/index.htm
+https://machinesaredigging.com/2013/10/29/how-does-a-web-session-work/
+

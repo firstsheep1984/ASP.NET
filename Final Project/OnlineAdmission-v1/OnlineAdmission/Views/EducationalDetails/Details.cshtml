@@ -1,0 +1,83 @@
+﻿@model OnlineAdmission.Models.EducationalDetails
+
+@{
+    ViewBag.Title = "Education Details";
+}
+
+    <h2>Education Details Index</h2>
+
+<div>
+    <h4>EducationalDetails</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.application.Userid)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.application.Userid)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.qualification)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.qualification)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.yearPassing)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.yearPassing)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DurationFrom)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DurationFrom)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DurationTo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DurationTo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BoardUniversity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BoardUniversity)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Subjects)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Subjects)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Percentage)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Percentage)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index" )|
+    @Html.ActionLink("Next", "Details", "EnclosedDocuments", new { id = Model.applicationId }, null)
+</p>

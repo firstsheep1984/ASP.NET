@@ -1,0 +1,55 @@
+﻿@model HomeInventory.Models.HomeItem
+@using HomeInventory.Helpers
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Home Item Details</h2>
+<table class="table borderless">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Location.Name)
+        </th>
+        <td>
+            @Html.DisplayFor(model => model.Location.Name)
+        </td>
+    </tr>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Model)
+        </th>
+        <td>
+            @Html.DisplayFor(model => model.Model)
+        </td>
+    </tr>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.SerialNumber)
+        </th>
+        <td>
+            @Html.DisplayFor(model => model.SerialNumber)
+        </td>
+    </tr>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <td>
+            @Html.DisplayFor(model => model.Description)
+        </td>
+    </tr>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Photo)
+        </th>
+        <td>
+            @Html.GetImage(Model.Photo, 300, 300)
+        </td>
+    </tr>
+</table>
+<h4>Purchase Info</h4>
+@Html.Partial("_PurchaseInfo", Model.PurchaseInfo)
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.HomeItemId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

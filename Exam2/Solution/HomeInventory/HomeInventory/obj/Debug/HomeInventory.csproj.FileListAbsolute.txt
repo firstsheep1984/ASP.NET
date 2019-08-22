@@ -1,0 +1,152 @@
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\ApplicationInsights.config
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\HomeInventory.dll.config
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\HomeInventory.dll
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\HomeInventory.pdb
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\Antlr3.Runtime.dll
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\EntityFramework.dll
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\EntityFramework.SqlServer.dll
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\Microsoft.AI.Web.dll
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\Microsoft.ApplicationInsights.dll
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\Newtonsoft.Json.dll
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\System.Web.Helpers.dll
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\System.Web.Mvc.dll
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\System.Web.Optimization.dll
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\System.Web.Razor.dll
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\System.Web.WebPages.Deployment.dll
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\System.Web.WebPages.dll
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\System.Web.WebPages.Razor.dll
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\WebGrease.dll
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\EntityFramework.xml
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\EntityFramework.SqlServer.xml
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\System.Web.Helpers.xml
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\System.Web.Mvc.xml
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\System.Web.Optimization.xml
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\System.Web.Razor.xml
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\System.Web.WebPages.xml
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\System.Web.WebPages.Deployment.xml
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\System.Web.WebPages.Razor.xml
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\Antlr3.Runtime.pdb
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\Newtonsoft.Json.xml
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\Microsoft.ApplicationInsights.xml
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\bin\Microsoft.AI.Web.xml
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\obj\Debug\HomeInventory.csproj.CoreCompileInputs.cache
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\obj\Debug\HomeInventory.dll
+c:\users\ricardo\source\repos\HomeInventory\HomeInventory\obj\Debug\HomeInventory.pdb
+C:\Users\Ricardo\source\repos\HomeInventory\HomeInventory\bin\PagedList.dll
+C:\Users\Ricardo\source\repos\HomeInventory\HomeInventory\bin\PagedList.Mvc.dll
+C:\Users\Ricardo\source\repos\HomeInventory\HomeInventory\bin\PagedList.xml
+C:\Users\Ricardo\source\repos\HomeInventory\HomeInventory\bin\PagedList.Mvc.xml
+C:\Users\Ricardo\source\repos\HomeInventory\HomeInventory\obj\Debug\HomeInventory.csprojResolveAssemblyReference.cache
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\ApplicationInsights.config
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\HomeInventory.dll.config
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\HomeInventory.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\HomeInventory.pdb
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\Antlr3.Runtime.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\EntityFramework.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\EntityFramework.SqlServer.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.AI.DependencyCollector.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.AI.Web.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.AI.WindowsServer.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.ApplicationInsights.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.Web.Infrastructure.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\Newtonsoft.Json.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\PagedList.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\PagedList.Mvc.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.Helpers.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.Mvc.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.Optimization.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.Razor.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.WebPages.Deployment.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.WebPages.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.WebPages.Razor.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\WebGrease.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\EntityFramework.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\EntityFramework.SqlServer.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\PagedList.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\PagedList.Mvc.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.Helpers.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.Mvc.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.Optimization.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.Razor.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.WebPages.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.WebPages.Deployment.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.WebPages.Razor.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\Antlr3.Runtime.pdb
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\Newtonsoft.Json.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.ApplicationInsights.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.AI.DependencyCollector.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.AI.WindowsServer.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.AI.Web.xml
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\obj\Debug\HomeInventory.csprojAssemblyReference.cache
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\obj\Debug\HomeInventory.csproj.CoreCompileInputs.cache
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\obj\Debug\HomeInventory.csproj.CopyComplete
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\obj\Debug\HomeInventory.dll
+C:\Ricardo Artola\ASP NET MVC\Share\Exam2\Solution\HomeInventory\HomeInventory\obj\Debug\HomeInventory.pdb
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\ApplicationInsights.config
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\HomeInventory.dll.config
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\HomeInventory.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\HomeInventory.pdb
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\Antlr3.Runtime.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\EntityFramework.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\EntityFramework.SqlServer.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.AI.Web.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\Newtonsoft.Json.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\PagedList.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\PagedList.Mvc.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.Helpers.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.Mvc.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.Optimization.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.Razor.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.WebPages.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.WebPages.Razor.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\WebGrease.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\EntityFramework.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\EntityFramework.SqlServer.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\PagedList.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\PagedList.Mvc.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.Helpers.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.Mvc.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.Optimization.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.Razor.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.WebPages.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\System.Web.WebPages.Razor.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\Antlr3.Runtime.pdb
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\Newtonsoft.Json.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\bin\Microsoft.AI.Web.xml
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\obj\Debug\HomeInventory.csprojAssemblyReference.cache
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\obj\Debug\HomeInventory.csproj.CoreCompileInputs.cache
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\obj\Debug\HomeInventory.csproj.CopyComplete
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\obj\Debug\HomeInventory.dll
+C:\Users\ipd\Documents\ASP.NET\Exam2\Solution\HomeInventory\HomeInventory\obj\Debug\HomeInventory.pdb

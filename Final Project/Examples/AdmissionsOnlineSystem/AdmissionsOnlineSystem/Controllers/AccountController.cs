@@ -79,10 +79,12 @@ namespace AdmissionsOnlineSystem.Controllers
             switch (result)
             {
                 case SignInStatus.Success:
-                    if (!User.IsInRole(RoleName.CanManage))
-                        return RedirectToAction("Edit", "Applications");
-                    else
+                    var userClaim = new ClaimsPrincipal(AuthenticationManager.AuthenticationResponseGrant.Identity);
+                    if (userClaim.IsInRole(RoleName.CanManage))
                         return RedirectToAction("Index", "Applications");
+                    else
+                        return RedirectToAction("Edit", "Applications");
+                    
                 case SignInStatus.LockedOut:
                     return View("Lockout");
                 case SignInStatus.RequiresVerification:

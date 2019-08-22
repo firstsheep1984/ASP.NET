@@ -1,0 +1,43 @@
+﻿@using AdmissionsOnlineSystem.Models
+@model AdmissionsOnlineSystem.ViewModels.ApplicationViewModel
+<br />
+<ul id="tabstrip" class="nav nav-tabs" role="tablist">
+    <li class="active"><a href="#_PersonalInfo" role="tab" data-toggle="tab">Personal Information</a></li>
+    <li><a href="#_EducationDetails" role="tab" data-toggle="tab">Educational Details</a></li>
+    <li><a href="#_EnclosedDocuments" role="tab" data-toggle="tab">Enclosed Documents</a></li>
+</ul>
+<!-- Tab Content Containers -->
+<div class="tab-content">
+    <div class="tab-pane fade in active" id="_PersonalInfo">@Html.Partial("_PersonalInfo", Model)</div>
+    <div class="tab-pane fade" id="_EducationDetails"></div>
+    <div class="tab-pane fade" id="_EnclosedDocuments"></div>
+</div>
+@if (User.IsInRole(RoleName.CanManage))
+{
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+}
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    <script>
+    $('#tabstrip a').click(function (e) {
+        e.preventDefault()
+        var tabID = $(this).attr("href").substr(1);
+        $(".tab-pane").each(function () {
+            $(this).empty();
+        });
+        var appId = '@ViewContext.RouteData.Values["id"]';
+        $.ajax({
+            url: "/@ViewContext.RouteData.Values["controller"]/" + tabID + '/' + appId,
+        cache: false,
+        type: "get",
+        dataType: "html",
+        success: function (result) {
+            $("#" + tabID).html(result);
+        }
+    })
+   $(this).tab('show')
+        });
+    </script>
+}

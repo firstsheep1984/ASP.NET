@@ -1,0 +1,142 @@
+﻿@model IEnumerable<AdmissionsOnlineSystem.ViewModels.ApplicationViewModelForList>
+<br />
+<div class="container">
+    <div class="panel-group" style="min-height:300px;max-width:1100px">
+        <div class="panel panel-primary">
+            <div class="panel-heading">
+                Student Applications
+            </div>
+            <div class="panel-body">
+                @using (Html.BeginForm("Index", "Applications"))
+                {
+                    <div class="form-group row">
+                        <label for="ApplicationId" class="col-sm-2 col-form-label">Application Id:</label>
+                        <div class="col-sm-4">
+                            <input type="text" class="form-control" id="ApplicationId" name="ApplicationId" />
+                        </div>
+                        <label for="DepartmentId" class="col-sm-2 col-form-label">Department:</label>
+                        <div class="col-sm-4">
+                            <select name="DepartmentId" id="DepartmentId" class="form-control"></select>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="StudentName" class="col-sm-2 col-form-label">Student Name:</label>
+                        <div class="col-sm-4">
+                            <input type="text" class="form-control" id="StudentName" name="StudentName" />
+                        </div>
+                        <label for="ProgramId" class="col-sm-2 col-form-label">Program:</label>
+                        <div class="col-sm-4">
+                            <select name="ProgramId" id="ProgramId" class="form-control"></select>
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label for="Status" class="col-sm-2 col-form-label">Status:</label>
+                        <div class="col-sm-4">
+                            <select name="Status" class="form-control">
+                                <option value="">--All Statuses--</option>
+                                <option value="Draft">Draft</option>
+                                <option value="Saved">Saved</option>
+                                <option value="Received">Received</option>
+                                <option value="Approved">Approved</option>
+                            </select>
+                        </div>
+                        <label for="RegistrationDate" class="col-sm-2 col-form-label">Reg.Date:</label>
+                        <div class="col-sm-4">
+                            <input type="text" class="form-control" id="RegistrationDate" />
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <div class="col-sm-10 offset-sm-2">
+                            <button type="submit" class="btn btn-primary">Search</button>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+<div class="panel-heading">
+    <table class="table table-bordered table-striped">
+        <tr>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.ApplicationId)
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.StudentName)
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.DepartmentName)
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.ProgramName)
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.RegistrationDate)
+            </th>
+            <th scope="col">
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th></th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ApplicationId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StudentName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DepartmentName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProgramName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RegistrationDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+                <td>
+                    @Html.ActionLink("Details", "Edit", new { id = item.ApplicationId })
+                </td>
+            </tr>
+        }
+    </table>
+</div>
+@section Scripts{
+<script>
+        $(function () {
+            var ddlDepartments = $("#DeparmentId");
+            $.ajax({
+                cache: false,
+                type: "GET",
+                url: '@Url.Action("GetDepartments", "Applications")',
+                success: function (data) {
+                    ddlDepartments.html('');
+                    $.each(data, function (id, option) {
+                        ddlDepartments.append($('<option></option>').val(option.id).html(option.name));
+                    });
+                }
+            });
+        $("#DepartmentId").change(function () {
+            var selectedItemValue = $(this).val();
+            var ddlPrograms = $("#ProgramId");
+            $.ajax({
+                cache: false,
+                type: "GET",
+                url: '@Url.Action("GetProgramsByDepartmentId", "Applications")',
+                data: { "id": selectedItemValue },
+                success: function (data) {
+                    ddlPrograms.html('<option value=0>--All Programs--</option>"');
+                    $.each(data, function (id, option) {
+                        ddlPrograms.append($('<option></option>').val(option.id).html(option.name));
+                    });
+                }
+            });
+        });
+    });
+</script>
+}

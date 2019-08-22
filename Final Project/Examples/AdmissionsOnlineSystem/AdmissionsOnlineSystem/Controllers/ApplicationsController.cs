@@ -7,6 +7,9 @@ using AdmissionsOnlineSystem.Models;
 using AdmissionsOnlineSystem.ViewModels;
 using System.Collections.Generic;
 using System;
+using System.IO;
+using System.Web;
+using AdmissionsOnlineSystem.Helpers;
 
 namespace AdmissionsOnlineSystem.Controllers
 {
@@ -18,7 +21,7 @@ namespace AdmissionsOnlineSystem.Controllers
         {
             //if (User.IsInRole(RoleName.CanManage))
             //{
-            var applications = db.Applications.Include(a => a.User);
+            var applications = db.Applications.Include(a => a.User).Include(a => a.Department).Include(a => a.Program);
             return View(applications.ToList());
             //}
             /*else
@@ -234,6 +237,14 @@ namespace AdmissionsOnlineSystem.Controllers
 
             List<EnclosedDocument> enclosedDocuments = db.EnclosedDocuments.Include(e => e.Application).Where(e => e.ApplicationId == application.ApplicationId).ToList();
 
+            foreach (string upload in Request.Files)
+            {
+                
+                string path = AppDomain.CurrentDomain.BaseDirectory + "uploads/";
+                string filename = Path.GetFileName(Request.Files[upload].FileName);
+                Request.Files[upload].SaveAs(Path.Combine(path, filename));
+            }
+
             return View(enclosedDocuments);
         }
 
@@ -242,44 +253,45 @@ namespace AdmissionsOnlineSystem.Controllers
         public ActionResult CreateEnclosedDocuments(string appId)
         {
             Application application = db.Applications.Find(appId);
-            EnclosedDocument enclosedDocument = new EnclosedDocument();
-            enclosedDocument.Application = application;
-            enclosedDocument.ApplicationId = application.ApplicationId;
-            return View(enclosedDocument);
+            var enclosedDocumentVM = new EnclosedDocumentViewModel();
+            enclosedDocumentVM.Application = application;
+            enclosedDocumentVM.ApplicationId = application.ApplicationId;
+            return View(enclosedDocumentVM);
         }
 
         [HttpPost]
         [ValidateInput(false)]
-        public ActionResult CreateEnclosedDocuments(EnclosedDocument enclosedDocument)
-        {
-            Application application = db.Applications.Find(enclosedDocument.ApplicationId);
-            enclosedDocument.Application = application;
+        public ActionResult CreateEnclosedDocuments(EnclosedDocumentViewModel documentViewModel)
+        {           
             if (ModelState.IsValid)
             {
-
+                EnclosedDocument enclosedDocument = new EnclosedDocument();
+                enclosedDocument.ApplicationId = documentViewModel.ApplicationId;
+                enclosedDocument.DocumentType = documentViewModel.DocumentType;
+                enclosedDocument.Name = documentViewModel.Name;
+                enclosedDocument.DocumentFile = ImageConverter.ByteArrayFromPostedFile(documentViewModel.DocumentFile);
                 db.EnclosedDocuments.Add(enclosedDocument);
                 db.SaveChanges();
                 return RedirectToAction("EnclosedDocuments", "Applications", new { appId = enclosedDocument.ApplicationId });
             }
 
-            return View(enclosedDocument);
+            return View(documentViewModel);
         }
 
         public ActionResult Details(string id)
         {
-            Application application = db.Applications.Include(p => p.Department).Include(p => p.Program).Where(p=>p.ApplicationId == id).FirstOrDefault();
-            return View("_StudentDetailsTab", application);
+            Application application = db.Applications.Include(p => p.Department).Include(p => p.Program)
+                .Include(a=>a.EducationDetails)
+                .Include(a => a.EnclosedDocuments)
+                .Where(p=>p.ApplicationId == id).FirstOrDefault();
+            if (application.EducationDetails == null)
+                application.EducationDetails = new List<EducationDetail>();
+            if (application.EnclosedDocuments == null)
+                application.EnclosedDocuments = new List<EnclosedDocument>();
+            return View("StudentDetailsTab", application);
         }
 
-        public ActionResult _EducationDetailsTab(string id)
-        {
-            return PartialView();
-        }
-
-        public ActionResult _EnclosedDocumentsTab(string id)
-        {
-            return PartialView();
-        }
+        
 
         protected override void Dispose(bool disposing)
         {
