@@ -1,0 +1,47 @@
+﻿@using AdmissionsOnlineSystem.Models
+@model IEnumerable<AdmissionsOnlineSystem.Models.EducationDetail>
+<br />
+@if (!User.IsInRole(RoleName.CanManage))
+{
+    <button type="button" class="btn btn-primary addEducationDetail">
+        Add Education detail
+    </button>
+}
+
+<br />
+<div id="educationDetails">
+    @Html.Partial("_EducationDetailsList", Model)
+</div>
+<div class="modal fade" id="educationDetailModal">
+</div>
+<script>
+    var AddEducationDetail = function () {
+        var url = '/Applications/_AddEditEducationDetail?appId=@Request.QueryString["appId"]';
+        $("#educationDetailModal").load(url, function () {
+            $("#educationDetailModal").modal("show");
+            $.validator.unobtrusive.parse('#' + $("#educationDetailModal").find('form').attr('id'))
+        })
+    };
+    var EditEducationDetail = function (id) {
+        var url = '/Applications/_AddEditEducationDetail/'+id+'?appId=@Request.QueryString["appId"]';
+        $("#educationDetailModal").load(url, function () {
+            $("#educationDetailModal").modal("show");
+            $.validator.unobtrusive.parse('#' + $("#educationDetailModal").find('form').attr('id'))
+        })
+    };
+    var DeleteEducationDetail = function (id) {
+        var url = '/Applications/_DeleteEducationDetail/'+id+'?appId=@Request.QueryString["appId"]';
+        $("#educationDetailModal").load(url, function () {
+            $("#educationDetailModal").modal("show");
+            $.validator.unobtrusive.parse('#' + $("#educationDetailModal").find('form').attr('id'))
+        })
+    }
+    function OnEducationDetailSuccess(data) {
+        $('#educationDetailModal').modal('hide');
+    }
+    $(document).ready(function () {
+        $('.addEducationDetail').on('click', function () {
+            AddEducationDetail();
+        });
+    });
+</script>
