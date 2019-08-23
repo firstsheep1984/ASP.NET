@@ -10,22 +10,40 @@ Use of a session
 https://www.tutorialspoint.com/http/index.htm
 https://machinesaredigging.com/2013/10/29/how-does-a-web-session-work/
 
-In computer science and networking in particular, a session is a temporary and interactive information interchange between two or more communicating devices, or between a computer and user (see login session). A session is established at a certain point in time, and then ‘torn down’ - brought to an end - at some later point. An established communication session may involve more than one message in each direction. A session is typically stateful, meaning that at least one of the communicating parties needs to hold current state information and save information about the session history in order to be able to communicate, as opposed to stateless communication, where the communication consists of independent requests with responses.
+In computer science and networking in particular, a session is a temporary and interactive information interchange between two or more communicating devices, or between a computer and user (see login session). 
+A session is established at a certain point in time, and then ‘torn down’ - brought to an end - at some later point. An established communication session may involve more than one message in each direction. 
+A session is typically stateful, meaning that at least one of the communicating parties needs to hold current state information and save information about the session history in order to be able to communicate,
+ as opposed to stateless communication, where the communication consists of independent requests with responses.
 
-An established session is the basic requirement to perform a connection-oriented communication. A session also is the basic step to transmit in connectionless communication modes. However any unidirectional transmission does not define a session.[1]
+the session is a data structure that an application uses to store temporary data that is useful only during the time a user is interacting with the application, it is also specific to the user.
 
-The Hypertext Transfer Protocol (HTTP) is an application-level protocol for distributed, collaborative, hypermedia information systems. This is the foundation for data communication for the World Wide Web (i.e. internet) since 1990. HTTP is a generic and stateless protocol which can be used for other purposes as well using extensions of its request methods, error codes, and headers.
+For example, you could save the user’s name in the session so that you don’t have to query the database every time you need it or you could store data in the session to save state between pages (between pages of a payment process for example).
+Think of it as a volatile memory quickly accessible that is allocated to each user who is using the application, and when the user quits, it is destroyed.
 
-Basically, HTTP is a TCP/IP based communication protocol, that is used to deliver data (HTML files, image files, query results, etc.) on the World Wide Web. The default port is TCP 80, but other ports can be used as well. It provides a standardized way for computers to communicate with each other. HTTP specification specifies how clients' request data will be constructed and sent to the server, and how the servers respond to these requests.
+An established session is the basic requirement to perform a connection-oriented communication. A session also is the basic step to transmit in connectionless communication modes. 
+However any unidirectional transmission does not define a session.[1]
+
+The Hypertext Transfer Protocol (HTTP) is an application-level protocol for distributed, collaborative, hypermedia information systems. 
+This is the foundation for data communication for the World Wide Web (i.e. internet) since 1990. 
+HTTP is a generic and stateless protocol which can be used for other purposes as well using extensions of its request methods, error codes, and headers.
+
+Basically, HTTP is a TCP/IP based communication protocol, that is used to deliver data (HTML files, image files, query results, etc.) on the World Wide Web. 
+The default port is TCP 80, but other ports can be used as well. It provides a standardized way for computers to communicate with each other. 
+HTTP specification specifies how clients' request data will be constructed and sent to the server, and how the servers respond to these requests.
 
 Basic Features
 There are three basic features that make HTTP a simple but powerful protocol:
 
-HTTP is connectionless: The HTTP client, i.e., a browser initiates an HTTP request and after a request is made, the client waits for the response. The server processes the request and sends a response back after which client disconnect the connection. So client and server knows about each other during current request and response only. Further requests are made on new connection like client and server are new to each other.
+HTTP is connectionless: The HTTP client, i.e., a browser initiates an HTTP request and after a request is made, the client waits for the response. 
+The server processes the request and sends a response back after which client disconnect the connection. 
+So client and server knows about each other during current request and response only. Further requests are made on new connection like client and server are new to each other.
 
-HTTP is media independent: It means, any type of data can be sent by HTTP as long as both the client and the server know how to handle the data content. It is required for the client as well as the server to specify the content type using appropriate MIME-type.
+HTTP is media independent: It means, any type of data can be sent by HTTP as long as both the client and the server know how to handle the data content. 
+It is required for the client as well as the server to specify the content type using appropriate MIME-type.
 
-HTTP is stateless: As mentioned above, HTTP is connectionless and it is a direct result of HTTP being a stateless protocol. The server and client are aware of each other only during a current request. Afterwards, both of them forget about each other. Due to this nature of the protocol, neither the client nor the browser can retain information between different requests across the web pages.
+HTTP is stateless: As mentioned above, HTTP is connectionless and it is a direct result of HTTP being a stateless protocol. 
+The server and client are aware of each other only during a current request. Afterwards, both of them forget about each other.
+ Due to this nature of the protocol, neither the client nor the browser can retain information between different requests across the web pages.
 
 1	GET
 The GET method is used to retrieve information from the given server using a given URI. Requests using GET should only retrieve data and should have no other effect on the data.
@@ -33,6 +51,8 @@ The GET method is used to retrieve information from the given server using a giv
 3	POST
 A POST request is used to send data to the server, for example, customer information, file upload, etc. using HTML forms.
 
-the request method indicates the method to be performed on the resource identified by the given Request-URI. The method is case-sensitive and should always be mentioned in uppercase. The following table lists all the supported methods in HTTP/1.1.
+An HTTP client sends an HTTP request to a server in the form of a request message which includes following format:
+the request method indicates the method to be performed on the resource identified by the given Request-URI. 
+The method is case-sensitive and should always be mentioned in uppercase. The following table lists all the supported methods in HTTP/1.1.
 
 After receiving and interpreting a request message, a server responds with an HTTP response message:
