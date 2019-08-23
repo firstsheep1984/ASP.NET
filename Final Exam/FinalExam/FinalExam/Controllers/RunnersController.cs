@@ -41,6 +41,7 @@ namespace FinalExam.Controllers
             var students = from s in db.Runners.Include(r => r.Country).Include(r => r.Event)
                            select new RunnersViewModel()
                            {
+                               RunnerId = s.RunnerId,
                                Name = s.FirstName + " " + s.LastName,
                                Email = s.Email,
                                EventName = s.Event.Name,
